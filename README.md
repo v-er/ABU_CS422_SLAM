@@ -13,6 +13,7 @@ Links for research:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;https://ipsjcva.springeropen.com/articles/10.1186/s41074-017-0027-2<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;https://www.mrpt.org/List_of_SLAM_algorithms<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;https://www.researchgate.net/publication/6397818_MonoSLAM_real-time_single_camera_SLAM<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/mengyuest/iros2018-slam-papers<br/>
 
 &nbsp;&nbsp;Code Links:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;http://www-personal.acfr.usyd.edu.au/tbailey/software/slam_simulations.htm<br/> &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AtsushiSakai/PythonRobotics/tree/master/SLAM<br/>
