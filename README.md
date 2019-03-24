@@ -16,4 +16,5 @@ Links for research:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/mengyuest/iros2018-slam-papers<br/>
 
 &nbsp;&nbsp;Code Links:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/tree/e84f8018366438c87189ccad40a56bf506f81ffc
 &nbsp;&nbsp;&nbsp;&nbsp;http://www-personal.acfr.usyd.edu.au/tbailey/software/slam_simulations.htm<br/> &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AtsushiSakai/PythonRobotics/tree/master/SLAM<br/>
